@@ -30,6 +30,13 @@ Learn about new trends and ways to make websites better.
 Actually in order to see the responsibilities what the comany need in that position I go ro the company job portal and finds that the quality which the company nedds in that position developer like good knowledge in html,css ,JS, react and git all I have and also I am capable of working as a team ,good communication skill and also I have make some indivisula project also like ecommerce website clone and you tube clone . So thats why I thank if I hire I can give all the contribution what the company needs.
 
 
+7. What are your career objectives? Or Where do you see yourself in the next  3-5 years?
+
+1. first 1 year learn as many new tech stack as possible for first 1 year.
+2. next 1 year do as much project as can.
+3. handle a team project where I am the ream leader.
+4. get some sort of higher position.
+
 
 8. What are your strengths and weaknesses?
 
